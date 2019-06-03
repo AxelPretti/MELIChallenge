@@ -33,7 +33,7 @@ SMTP_PORT  : "NO CAMBIAR"
 
 <b> <i>------ Variables para la conexion con MySQL ------</i> </b>
 
-<b>MYSQL_HOST</b> = si el Mysql corre en el mismo equipo dejar por defecto localhost
+<b>MYSQL_HOST</b> = si el motor Mysql corre en el mismo equipo dejar por defecto localhost
 
 <b>MYSQL_DB_USER</b> : Indicar un usuario con permisos para crear Bases de datos
 
