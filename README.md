@@ -17,6 +17,7 @@ ejemplo de instalacion de requerimientos en Ubuntu:
 
 $ sudo apt install python3 python3-pip mysql-connector
 $ sudo apt install mysql
+$ pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 
 # Archivo config.py
